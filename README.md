@@ -413,3 +413,5 @@ chmod +x submit_ray_jobs.sh
 - vLLM Team for efficient LLM serving
 - Hugging Face for model hosting and datasets
 - NVIDIA for GPU computing infrastructure
+
+Thank you!
